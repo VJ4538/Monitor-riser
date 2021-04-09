@@ -264,7 +264,7 @@ hr{
 .nav-bar{
     display:flex;
     justify-content: space-between;
-    background-image:url(./assets/images/image-hero-desktop.jpg);
+    background-image:url(../images/image-hero-desktop.jpg);
     background-size:cover;
     height: 400px;
 }
